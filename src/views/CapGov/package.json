@@ -1,0 +1,6 @@
+{
+  "name": "CapGov",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CapGov.js"
+}

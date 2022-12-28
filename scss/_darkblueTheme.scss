@@ -1,0 +1,210 @@
+.darkblue {
+  .dropdown-notify-height,
+  ul.ant-dropdown-menu.dropdown-notifications.ant-dropdown-menu-light.ant-dropdown-menu-root.ant-dropdown-menu-vertical {
+    background: #192133;
+  }
+  a.hrefBtn {
+    background: transparent !important;
+    padding: 6px;
+    font-weight: 300;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .hrefBtn > i.fas.fa-file-excel {
+    color: white;
+    padding-left: 6px;
+  }
+  a.hrefBtnExport {
+    padding: 6px 15px;
+    font-size: 13px;
+    color: #ffffff !important;
+    border-radius: 4px;
+    background: #192133 !important;
+    border: 1px solid white !important;
+  }
+  .rc-virtual-list-holder-inner {
+    background: #2b313e;
+  }
+  .ant-select-item.ant-select-item-option.ant-select-item-option-active.ant-select-item-option-selected {
+    background: $whiteTheme-text-color !important;
+    color: white !important;
+  }
+  .ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+    color: white !important;
+    background-color: $whiteTheme-text-color !important;
+  }
+  .ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+    background: #919db7 !important;
+    color: white !important;
+  }
+  .date-filter-comparator option {
+    background: #0d111b;
+    color: white;
+  }
+  .ant-card.ant-card-bordered.report-card {
+    background: #0d1627;
+    color: $white !important;
+  }
+  ul.ant-dropdown-menu.ant-dropdown-menu-root.ant-dropdown-menu-vertical.ant-dropdown-menu-light.iim-uploads-menu {
+    background: #2a3856;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+
+  .iim-uploads-menu span.ant-dropdown-menu-title-content {
+    color: white;
+    letter-spacing: 0.5px;
+  }
+
+  .iim-uploads-menu
+    li.ant-dropdown-menu-item.ant-dropdown-menu-item-active.ant-dropdown-menu-item-only-child {
+    background: black;
+  }
+  .tbl-fil .ant-input-wrapper.ant-input-group {
+    border: 1px solid #516a9f;
+  }
+  .tbl-fil .ant-input-search-button {
+    background: #304673;
+    color: white !important;
+    border: none;
+  }
+  .react-bs-table-csv-btn {
+    background-color: #0d1627 !important;
+  }
+  .react-bs-table-csv-btn:hover {
+    background-color: #2a3856 !important;
+  }
+  .ant-select-empty {
+    padding: 20px;
+    background: #192d54 !important ;
+  }
+  span.ant-avatar.ant-avatar-lg.ant-avatar-circle {
+    background: #192d54 !important;
+  }
+
+  .navbar {
+    background: linear-gradient(to bottom, #141b29, #0c111b 300px);
+    padding: 5px;
+  }
+  .sidebar {
+    background: linear-gradient(to bottom, #141b29, #0c111b 300px);
+  }
+  .ant-card.ant-card-bordered {
+    box-shadow: 2px 2px 10px 0px black;
+
+    background: #0d1627;
+    border-radius: 8px;
+  }
+  .table th {
+    color: #e8e8e8;
+
+    background: #0d111b;
+  }
+  .ant-modal-content,
+  .ant-modal-header {
+    box-shadow: none;
+    background: #192133;
+    border-radius: 8px;
+  }
+  .ant-modal.tbl-col-settings .ant-modal-content {
+    background: #192133;
+  }
+  .ant-modal.tbl-col-settings .ant-modal-header,
+  .ant-modal.tbl-col-settings .ant-transfer-list .ant-transfer-list-header,
+  .ant-transfer-list-body {
+    background: #192133;
+    box-shadow: 0px 1px 8px 0px black;
+  }
+  tr:nth-child(odd) {
+    background: #2a3856;
+  }
+  tr:hover td {
+    overflow-x: visible !important;
+    white-space: initial;
+    background: #6c6c70a3;
+  }
+  .export-Btn {
+    background: #192133 !important;
+  }
+
+  .page-link {
+    background-color: #192133;
+  }
+  .page-link:hover {
+    background-color: #2b2c31;
+  }
+  .chart-select .ant-select-selector,
+  .ant-select-tree,
+  .ant-select-dropdown {
+    background: transparent !important;
+  }
+  .ant-select-dropdown {
+    background: #15243f !important;
+  }
+  .id-custom-cell,
+  .id-custom-cell1 {
+    background: #0d111b !important;
+  }
+  td.material-position-fixed,
+  .material-position-fixed1,
+  .fs,
+  .pushpullheader .ant-card-head,
+  .material-insights-table td:first-child,
+  .material-insights-table td:nth-child(2),
+  .material-insights-table td:last-child {
+    background: #0d1627 !important;
+  }
+  ul.ant-dropdown-menu.dropdown-notifications.ant-dropdown-menu-light.ant-dropdown-menu-root.ant-dropdown-menu-vertical {
+    background: #192133;
+  }
+  .head-avatar {
+    background: #2a364f;
+  }
+  .ant-select-tree .ant-select-tree-node-content-wrapper:hover {
+    background: #2a364f;
+  }
+  .ant-tree-select-dropdown .ant-select-tree-list-holder-inner {
+    background: #15243f;
+  }
+  button.ant-btn.oncancel {
+    background: transparent;
+  }
+  button.btn-style {
+    background: transparent;
+    border: 1px solid white;
+  }
+  .ant-picker-panel-container .ant-picker-panel,
+  .ant-picker-content th,
+  .ant-picker-content td {
+    background: #15243f !important;
+  }
+  .parent-cal1 .ant-picker-range {
+    background: #2e3951 !important;
+  }
+  .table-color > .react-bootstrap-table > .table.table-bordered > tbody:nth-child(2) > tr > td {
+    background: #0d111b;
+  }
+  .KpiDDCardLeadtime {
+    background: #0d111b;
+  }
+  .marquee-layout {
+    background: #172644;
+    box-shadow: 2px 2px 10px 0px black;
+  }
+  .ant-tree.ant-tree-icon-hide.ant-tree-show-line,
+  .pr-20 {
+    background: transparent !important;
+  }
+  .map-headerDD {
+    background: linear-gradient(to bottom, #141b29, #0c111b 300px);
+  }
+  .ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #2d2a2a;
+    color: white !important;
+  }
+  .ant-menu-item-group-title {
+    color: black;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+  }
+}
